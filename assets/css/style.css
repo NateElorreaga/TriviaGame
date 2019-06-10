@@ -1,0 +1,27 @@
+.jumbotron{
+    text-align: center;
+    margin-top: 8%;
+    background-color: #fff;
+
+    
+}
+.display-4 {
+    background-color: #fff;
+    font-size: 80px;
+
+    
+
+}
+.lead{
+    font-size: 25px;
+    margin-top:3%;
+}
+a{
+    text-align: center;
+}
+.btn {
+    padding: 20px;
+    margin-top: 5%;
+
+};
+
